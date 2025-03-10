@@ -7,6 +7,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!doctype html>
 <html lang="en"><head>
+        
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -76,7 +77,7 @@
         </style>
     </head>
     <body>
-
+        <h1 style="color: red" >Tung dep trai nhat vu tru</h1>
         <p>Vui lòng chọn hình thức thanh toán:</p>
         <div class="mb-1">
             <label><input type="radio" name="iCheck" class="iradio_flat-blue"> Ví <img src="images/logo-zalopay.svg" alt=""></label>
